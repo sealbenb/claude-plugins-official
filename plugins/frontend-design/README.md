@@ -1,3 +1,4 @@
+XXX
 # Frontend Design Plugin
 
 Generates distinctive, production-grade frontend interfaces that avoid generic AI aesthetics.
